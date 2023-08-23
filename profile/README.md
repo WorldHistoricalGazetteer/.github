@@ -6,9 +6,8 @@ Home of repositories related to the [World Historical Gazetteer (WHG)](https://w
 
 - Ruth Mostern, Project Director and Director of the WHC
 - Karl Grossner (@kgeographer), Technical Director 
-- Nathan Michalewicz, WHC Postdoctoral Fellow
 - Alexandra Straub, Project Manager & Editorial Manager
-- Yiting Chen, Content and Language Expert
+- Jesse Obert, WHC Postdoctoral Fellow
 
 <!--
 
