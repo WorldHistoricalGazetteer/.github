@@ -8,6 +8,7 @@ Home of repositories related to the [World Historical Gazetteer (WHG)](https://w
 - Karl Grossner (@kgeographer), Technical Director 
 - Alexandra Straub, Project Manager & Editorial Manager
 - Jesse Obert, WHC Postdoctoral Fellow
+- Stephen Gadd, Lead developer
 
 <!--
 
